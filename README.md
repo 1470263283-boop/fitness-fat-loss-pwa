@@ -4,6 +4,10 @@
 
 正式使用建议部署到 Vercel、Cloudflare Pages、Netlify 或 GitHub Pages，通过 HTTPS 地址在手机浏览器访问并添加到桌面。`npm run dev` 只用于本地开发调试。
 
+当前 GitHub Pages 线上地址：
+
+https://1470263283-boop.github.io/fitness-fat-loss-pwa/
+
 ## 功能
 
 - 首页：今日训练、阶段、体重、饮水、肌酸、蛋白粉、蛋白达标打卡
